@@ -1,2 +1,2 @@
-# bibiliography
-Styling a bibiliography page
+# biography
+Styling a biography page
